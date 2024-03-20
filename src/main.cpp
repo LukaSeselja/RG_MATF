@@ -14,9 +14,7 @@
 #include <learnopengl/camera.h>
 #include <learnopengl/model.h>
 
-#include <iostream>
 
-void framebuffer_size_callback(GLFWwindow *window, int width, int height);
 
 void mouse_callback(GLFWwindow *window, double xpos, double ypos);
 
